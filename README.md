@@ -28,12 +28,12 @@ Aspiring cybersecurity professional passionate about systems, networks, and digi
 
 ### 📌 Featured University & Personal Projects
 
-#### 📬 [Operating Systems Project – Post Office Simulation](#)
+#### 📬 [Operating Systems Project – Post Office Simulation](https://github.com/Gabriferra15/Post_office_simulation)
 *A multi-process simulation developed in C.*
 * **Core Concepts:** IPC (Inter-Process Communication), Shared Memory, Semaphores, Signals.
 * **Logic:** Simulated the flow of customers and clerks in a post office environment, handling concurrency and resource contention effectively.
 
-#### 🌲 [Database Project – Protected Areas](#)
+#### 🌲 [Database Project – Protected Areas](https://github.com/Gabriferra15/Protected_Areas_Database_Project)
 *A comprehensive information system for Italian Natural Protected Areas.*
 * **Tech:** PostgreSQL, SQL, ER Modeling.
 * **Features:** Designed to manage tourism, CETS sustainability tracking, and guided tours.
