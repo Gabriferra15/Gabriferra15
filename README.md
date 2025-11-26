@@ -40,8 +40,8 @@ I am an aspiring Systems Engineer passionate about low-level programming, infras
 * **Highlights:** Implemented complex integrity constraints, triggers for automation, and performance optimization via strategic redundancy analysis.
 
 #### 🌐 **Small Web Apps** *(In Progress)*
-* Developing lightweight applications using **Java Spring**, **HTML/CSS**, and **JavaScript** to strengthen full-stack understanding.
+* Developing lightweight applications using **Java Spring**, **HTML/CSS**, and **TypeScript** to strengthen full-stack understanding.
 
 ---
 
-📫 **How to reach me:** [Link to LinkedIn] or [Email]
+📫 **How to reach me:** gabrieleferrante04@gmail.com
