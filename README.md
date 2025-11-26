@@ -1,9 +1,13 @@
 👋 Hi, I'm Gabriele Ferrante
 
 🎓 Computer Science student @ Università di Torino
+
 ☁️ Interested in Cybersecurity, Cloud and Systems Engineering
+
 🐧 Learning and working with Linux, Bash, Git, Docker, Networking & Security basics
+
 💻 I also develop small projects in C, Java, SQL, HTML/CSS, JavaScript
+
 
 🔧 Tech Skills
 
@@ -18,6 +22,7 @@ C & Java programming
 SQL / Relational databases
 
 Networking & Security fundamentals
+
 
 📌 University & Personal Projects
 
