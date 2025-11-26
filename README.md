@@ -2,7 +2,7 @@
 
 > **Computer Science Student** @ [Università di Torino](https://www.unito.it)
 
-I am an aspiring Systems Engineer passionate about low-level programming, infrastructure, and security. I love diving deep into how operating systems work and building robust backend solutions.
+Aspiring cybersecurity professional passionate about systems, networks, and digital defense. I enjoy exploring how technologies work at a deeper level and learning how to protect modern infrastructures.
 
 ---
 
