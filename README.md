@@ -37,7 +37,7 @@ I am an aspiring Systems Engineer passionate about low-level programming, infras
 *A comprehensive information system for Italian Natural Protected Areas.*
 * **Tech:** PostgreSQL, SQL, ER Modeling.
 * **Features:** Designed to manage tourism, CETS sustainability tracking, and guided tours.
-* [cite_start]**Highlights:** Implemented complex integrity constraints, triggers for automation, and performance optimization via strategic redundancy analysis.
+* **Highlights:** Implemented complex integrity constraints, triggers for automation, and performance optimization via strategic redundancy analysis.
 
 #### 🌐 **Small Web Apps** *(In Progress)*
 * Developing lightweight applications using **Java Spring**, **HTML/CSS**, and **JavaScript** to strengthen full-stack understanding.
